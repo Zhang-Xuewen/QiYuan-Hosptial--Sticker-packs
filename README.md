@@ -7,7 +7,7 @@ This is my first sticker pack design published in WeChat.
 
 Have fun.
 
-> If you are using this work in your research or teaching, please include explicit acknowledge of this work and of our paper.
+> If you are using this work, please include explicit acknowledge of this project.
 >
 > Please check the sections of [**License**](#license) at the end.
 
